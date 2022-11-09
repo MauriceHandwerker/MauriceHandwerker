@@ -1,28 +1,27 @@
-
-<div align="center">
-<h1>Hi there 👋, my name is Maurice</h1>
+<html style="font-size: 30px">
+<div align="center" style="background-image: url('https://media-exp1.licdn.com/dms/image/C4E16AQGpstIN4-I_6A/profile-displaybackgroundimage-shrink_350_1400/0/1667999671291?e=1673481600&v=beta&t=xEtEMI3XPIzLid9VRZuB_NMP2Os5PLF9rrEUWmVSyRc'); background-size: cover; height: 140px; text-align: center; align-items: center; color: black; font-size: 20px; font-weight: 600; line-height: 20px; padding-top: 60px">
+<h1 style="line-height: 10px; font-weight: 700;">Hi there 👋, my name is Maurice</h1>
   I am a Web-Developer / Project Manager
-<img src="https://maukau.dev/img/banner.png">
 </div>
 
+<div style="margin-top:50px;">
+<h1 style="font-weight: 600;">About Me</h1>
+Hi welcome to my GitHub Profile. Im a Web-Developer and student at the BBS-ME Otto-Brenner-Schule from Hannover Germany.
+I love making new Websites and designs.
+Here are some of my websites:
+<li><a href="https://maukau.dev/">MAUKAU.dev</a></li>
+<li><a href="http://bfi.bbs-me.org:1589">School portfolio website</a></li>
+</div>
 
+<div style="margin-top:50px;">
+<h1 style="font-weight: 600;">Projects</h1>
+Let me introduce you to my projects that Im currently working on or have worked on.
 
-Im 17 and student at the BBS-ME in germany. 
-
-Skills: HTML5 / CSS3 / C++ / C# / SQL / Python
-
-- 🔭 I’m currently working on Web-Cad & FiveM Server 
-- 🌱 I’m currently learning PHP 
-- 📫 How to reach me: Discord : Maurice.Kau#6795 
-
-
-<a href="https://github.com/MauriceKau"><img src='imgs/github.png' alt='github' height='60'></a>                          <a href="https://www.linkedin.com/in/maurice-handwerker/"><img src='imgs/linkedin.png' alt='linkedin' height='60'></a>                 <a href="https://maukau.dev"><img src='imgs/world-wide-web.png' alt='website' height='60'></a>
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MauriceKau&theme=github_dark) 
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MauriceKau&theme=github_dark)
-
-
-![Profile views](https://gpvc.arturio.dev/MauriceKau)  
+<ul>
+  <li><a href="https://github.com/MauriceHandwerker/MK-MDT">✅ MK-MDT ( Active )</a></li>
+  <li><a href="http://bfi.bbs-me.org:1587">✅ Lend ME <b>School Project</b> ( Active )</a></li>
+  <li><a href="https://github.com/MauriceHandwerker/MO_PHP-Login-Register-System">❌ MO_PHP-Login-Register-System ( Stoped )</a></li>
+  <li><a href="https://github.com/MauriceHandwerker/MO_PHP-Glossar-System">❌ MO_PHP-Glossar-System ( Stoped )</a></li>
+</ul>
+</div>
+</html>
