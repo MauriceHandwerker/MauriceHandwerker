@@ -1,5 +1,5 @@
 <html style="font-size: 30px">
-<div align="center" style="background-image: url('https://media-exp1.licdn.com/dms/image/C4E16AQGpstIN4-I_6A/profile-displaybackgroundimage-shrink_350_1400/0/1667999671291?e=1673481600&v=beta&t=xEtEMI3XPIzLid9VRZuB_NMP2Os5PLF9rrEUWmVSyRc'); background-size: cover; height: 140px; text-align: center; align-items: center; color: black; font-size: 20px; font-weight: 600; line-height: 20px; padding-top: 60px">
+<div align="center" style="background-image: url('https://github.com/MauriceHandwerker/MauriceHandwerker/blob/main/imgs/1667999671291.jpg'); background-size: cover; height: 140px; text-align: center; align-items: center; color: black; font-size: 20px; font-weight: 600; line-height: 20px; padding-top: 60px">
 <h1 style="line-height: 10px; font-weight: 700;">Hi there 👋, my name is Maurice</h1>
   I am a Web-Developer / Project Manager
 </div>
