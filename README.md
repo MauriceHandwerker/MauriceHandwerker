@@ -18,10 +18,8 @@ Here are some of my websites:
 Let me introduce you to my projects that Im currently working on or have worked on.
 
 <ul>
-  <li><a href="https://github.com/MauriceHandwerker/MK-MDT">✅ MK-MDT ( Active )</a></li>
-  <li><a href="http://bfi.bbs-me.org:1587">✅ Lend ME <b>School Project</b> ( Active )</a></li>
-  <li><a href="https://github.com/MauriceHandwerker/MO_PHP-Login-Register-System">❌ MO_PHP-Login-Register-System ( Stoped )</a></li>
-  <li><a href="https://github.com/MauriceHandwerker/MO_PHP-Glossar-System">❌ MO_PHP-Glossar-System ( Stoped )</a></li>
+  <li><a href="https://github.com/MauriceHandwerker/MO_PHP-Login-Register-System">✅ MO_PHP-Login-Register-System ( Stoped )</a></li>
+  <li><a href="https://github.com/MauriceHandwerker/MO_PHP-Glossar-System">✅ MO_PHP-Glossar-System ( Stoped )</a></li>
 </ul>
 </div>
 </html>
